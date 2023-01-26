@@ -13,8 +13,8 @@ Just the Docs has some specific configuration parameters that can be defined in 
 ## Table of contents
 {: .no_toc .text-delta }
 
-1. TOC
+2. TOC
 {:toc}
 
 ---
-Twar
+Test KVP Documentation
