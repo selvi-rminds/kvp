@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Typography
-parent: /sales
+parent: Sales
 ---
 
 # Typography
