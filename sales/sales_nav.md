@@ -6,6 +6,4 @@ has_children: true
 permalink: /sales
 ---
 
-# Sales
-{: .no_toc }
 
