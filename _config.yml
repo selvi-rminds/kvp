@@ -9,5 +9,5 @@ plugins:
 
 url: https://selvi-rminds.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+ # Template Repository: https://github.com/just-the-docs/just-the-docs-template
