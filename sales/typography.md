@@ -4,9 +4,9 @@ title: Typography
 parent: Sales
 ---
 
-# Typography
+# Configuration
 {: .no_toc }
 
 
 
-About Sales
+About Sales config
